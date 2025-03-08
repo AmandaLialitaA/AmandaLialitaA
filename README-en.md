@@ -50,6 +50,17 @@ Create a `REPORT.md` file in the repository containing:
 - **Bonus for Hosting (+10 points)**
 - **REPORT.md Quality (+10 optional points for excellent documentation)**
 
+
+## Example Personal Website
+Here are some examples of personal websites and screenshots that can be used as inspiration:
+- [Brittany Chiang](https://brittanychiang.com/)
+- [Sindre Sorhus](https://sindresorhus.com/)
+- [Benedikt Deicke](https://benediktdeicke.com/)
+
+
+![](./images/personal-web-sample2.jpeg)
+![](./images/personal-web-sample1.png)
+
 ## Happy Coding! 🚀
 Take this opportunity to express your creativity in building an attractive and professional personal website. Feel free to experiment with design and additional features! If you encounter any difficulties, discuss them with your peers or ask in class.
 

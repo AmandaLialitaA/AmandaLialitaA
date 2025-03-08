@@ -49,6 +49,16 @@ Buat file `LAPORAN.md` di dalam repository yang berisi:
 - **Bonus Hosting (+10 poin)**
 - **Kualitas LAPORAN.md (+10 poin opsional jika dokumentasi sangat baik)**
 
+## Contoh Website Personal
+Berikut adalah beberapa contoh website dan screenshot personal yang dapat dijadikan inspirasi:
+- [Brittany Chiang](https://brittanychiang.com/)
+- [Sindre Sorhus](https://sindresorhus.com/)
+- [Benedikt Deicke](https://benediktdeicke.com/)
+
+
+![](./images/personal-web-sample2.jpeg)
+![](./images/personal-web-sample1.png)
+
 ## Selamat Mengerjakan! 🚀
 Gunakan kesempatan ini untuk mengekspresikan kreativitas kalian dalam membangun website pribadi yang menarik dan profesional. Jangan ragu untuk bereksperimen dengan desain dan fitur tambahan! Jika ada kendala, diskusikan dengan teman atau tanyakan di kelas.
 
