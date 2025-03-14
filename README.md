@@ -18,7 +18,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AmandaLialitaA&theme=dark&hide_border=false)<br/>
 
 ## 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLialitaA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
