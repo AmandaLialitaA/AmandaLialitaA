@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently studying Informatics at Universitas Muhammadiyah Surakarta, in my 4th semester.  <br>👯 I’m looking to collaborate on software development projects, technical writing, or photography.<br>🤝 I’m looking for help with exploring deeper into technology and application development.<br>🌱 I’m currently learning more about programming, web development, and photography.<br>💬 Ask me about writing, photography, and the world of informatics.<br>⚡ Fun fact I love capturing moments through the camera lens and turning them into stories. 
 
