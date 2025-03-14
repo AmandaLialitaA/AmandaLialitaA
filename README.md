@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studying Informatics at Universitas Muhammadiyah Surakarta, in my 4th semester.  <br>👯 I’m looking to collaborate on software development projects, technical writing, or photography.<br>🤝 I’m looking for help with exploring deeper into technology and application development.<br>🌱 I’m currently learning more about programming, web development, and photography.<br>💬 Ask me about writing, photography, and the world of informatics.<br>⚡ Fun fact I love capturing moments through the camera lens and turning them into stories. 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amandalialita) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amandalialita) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@le0oo05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:L200234258@student.ums.ac.id) 
 
@@ -12,7 +11,12 @@
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaLialitaA&show_icons=true&theme=radical)
 
 ## 💻 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLialitaA&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
